@@ -18,6 +18,6 @@ https://notepad-plus-plus.org/downloads/ ------------------------> Notepad++ (re
 
 https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository -> The licenses
 
-## Hellpful video
+## Helpful video
 
 xxxxxxxx
